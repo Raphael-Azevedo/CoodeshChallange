@@ -19,7 +19,7 @@ Banco de dados:
 
 • PostgreSQL hospedado em Heroku
 
-#Como instalar e usar o projeto (instruções)
+# Como instalar e usar o projeto (instruções)
 
 Para baixar e instalar é necessário que tenha git e docker instalado.
 Clonar este projeto e ir no diretório e criar uma imagem através do docker build -t spaceflightnews -f Dockerfile.
