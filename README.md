@@ -4,9 +4,11 @@ Este projeto é realização do desafio proposto pela Coodesh, um REST API que u
 # linguagem, framework e/ou tecnologias usadas:
 
 Linguagem:
+
 • C#
 
 Frameworks:
+
 • .NET Core 3.1
 
 • Entity Framework Core
